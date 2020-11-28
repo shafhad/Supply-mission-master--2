@@ -68,6 +68,7 @@ function draw() {
   box1.display();
 box2.display();
   
+drawSprites();
 
   
  
