@@ -15,7 +15,7 @@ class box
     var angle = this.body.angle;
     push ()
        fill ("red");
-      rotate(angle);
+    //  rotate(angle);
        rectMode(CENTER);
        rect(this.body.position.x,this.body.position.y,this.w,this.h); 
        pop ()
